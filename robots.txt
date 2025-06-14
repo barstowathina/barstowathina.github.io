@@ -1,0 +1,8 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://barstowathina.github.io/WWT/sitemap_index.txt.gz
+Sitemap: https://barstowathina.github.io/Foq/sitemap_index.txt.gz
+Sitemap: https://barstowathina.github.io/cjw/sitemap_index.txt.gz
+Sitemap: https://barstowathina.github.io/hNv/sitemap_index.txt.gz
+Sitemap: https://barstowathina.github.io/rVL/sitemap_index.txt.gz
